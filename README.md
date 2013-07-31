@@ -13,6 +13,8 @@ The source data consists of two Shapefiles:
 
 ### Coverage ###
 
+The green dots are AddressPoints.shp, the red dots are AddressPoints_Incomplete.shp
+
 ![Coverage](https://raw.github.com/osmlab/utahaddresses/master/img/coverage.png)
 
 ## Status ##
