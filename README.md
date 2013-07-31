@@ -21,3 +21,4 @@ The green dots are AddressPoints.shp, the red dots are AddressPoints_Incomplete.
 
 * Jun 2013: Data is released. Identified by AGRC as a work in progress.
 * Jul 31, 2013: Import project started.
+* Jul 31, 2013: Reached out to Sean Fernandez (AGRC) to initiate dialog.
