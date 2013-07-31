@@ -13,7 +13,7 @@ The source data consists of two Shapefiles:
 
 ### Coverage ###
 
-![Coverage](osmlab.github.com/utahaddresses/img/coverage.png)
+![Coverage](https://raw.github.com/osmlab/utahaddresses/master/img/coverage.png)
 
 ## Status ##
 
